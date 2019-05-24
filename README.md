@@ -24,7 +24,10 @@ TBD.
 - [ ] TBD
 
 ### Issues:
+* TBD
 
-### Learning resources
+### Learning resources:
+* TBD
+
 
 
