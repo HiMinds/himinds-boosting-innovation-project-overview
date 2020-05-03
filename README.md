@@ -28,7 +28,7 @@ First Medium article about the project can be found [here](https://medium.com/hi
 ### Relevent repositories:
 
 * [himinds-boosting-innovation-embedded-env-sensor-hw](https://github.com/HiMinds/himinds-boosting-innovation-embedded-env-sensor-hw)
-* [https://github.com/HiMinds/himinds-boosting-innovation-embedded-env-sensor-sw](https://github.com/HiMinds/himinds-boosting-innovation-embedded-env-sensor-sw)
+* [himinds-boosting-innovation-embedded-env-sensor-sw](https://github.com/HiMinds/himinds-boosting-innovation-embedded-env-sensor-sw)
 * [himinds-boosting-innovation-backend-mqtt-database-service](https://github.com/HiMinds/himinds-boosting-innovation-backend-mqtt-database-service)
 
 
